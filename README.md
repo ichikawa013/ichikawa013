@@ -11,9 +11,8 @@ I'm **Piyush**, a **Full-Stack Developer**, **Web3 & AI Enthusiast**, and a **B.
 ---
 
 ### 🌱 What I'm Learning  
-- **Deepening my C++ skills** with advanced projects.  
-- **Exploring AI/ML** (starting in April).  
-- **Mastering React Native** for mobile development.  
+- **Deepening my C++ skills** with advanced projects.    
+- **Mastering JS and libraries** for web development.  
 
 ---
 
