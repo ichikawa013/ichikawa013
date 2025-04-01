@@ -37,7 +37,7 @@ I'm **Piyush**, a **Full-Stack Developer**, **Web3 & AI Enthusiast**, and a **B.
 ---
 
 ### 📫 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyush-mishra-90174a281?style=flat&logo=linkedin)](www.linkedin.com/in/piyush-mishra-90174a281)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyush-mishra?style=flat&logo=linkedin)](www.linkedin.com/in/piyush-mishra-90174a281)  
 [![GitHub](https://img.shields.io/badge/GitHub-ichikawa013-181717?style=flat&logo=github)](https://github.com/ichikawa013)  
 
 ---
