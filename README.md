@@ -6,7 +6,7 @@ I'm **Piyush**, a **Full-Stack Developer**, **Web3 & AI Enthusiast**, and a **B.
 ### 🔭 What I'm Currently Working On  
 - 💡 **Building a Decentralized Identity & Fraud Detection System** using **Web3 & AI**.  
 - 🎵 Developing a **Web-Based & React Native Music Player**.  
-- 🏆 Preparing for my first **internship in Full-Stack / AI/ML development**.  
+- 🏆 Preparing for my first **internship in Full-Stack**.  
 
 ---
 
