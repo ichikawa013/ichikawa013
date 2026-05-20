@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-mishra013)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pmishra0347@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-961-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-961-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/piyush_mishra)
 
 </div>
 
@@ -31,11 +31,11 @@ Two production-grade systems shipped independently, end-to-end: from schema desi
 > Internal GitHub activity feed meets team standup board. Developers post updates, attach media, react in real time. Team leads get live dashboards with contribution heatmaps and alert streams.
 > `Spring Boot` `GraphQL` `Kafka` `WebSocket/STOMP` `PostgreSQL` `Redis` `MinIO` `Kubernetes` `Spring AI`
 
-**[Distributed Payment Service](https://github.com/ichikawa013)**
+**[Distributed Payment Service](https://github.com/ichikawa013/payment-service)**
 > RESTful payment orchestration backend — deposits, withdrawals, P2P routing — with idempotency keys, JWT auth, and Redis-backed rate limiting. Load tested at 36.6 req/sec / 50 concurrent sessions / 0% error rate.
 > `Java` `Spring Boot` `MongoDB` `Redis` `Bucket4j` `Docker` `AWS EC2`
 
-**[Healthcare Interoperability API](https://github.com/ichikawa013)**
+**[Healthcare Interoperability API](https://github.com/ichikawa013/med)**
 > Cross-system patient data exchange implementing FHIR R4. Sole backend engineer — REST contracts, PostgreSQL schema, and deployment pipeline, end-to-end.
 > `Node.js` `Express.js` `PostgreSQL` `FHIR R4`
 
