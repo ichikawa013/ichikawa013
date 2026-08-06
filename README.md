@@ -1,86 +1,94 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=System%20Online%20🗲&animation=fadeIn&type=waving&color=0:0A0A0A,50:8B0000,100:0A0A0A&fontColor=FFD700&height=180&fontSize=42"/>
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/piyush-mishra013"><img height="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" style="filter: invert(70%) sepia(70%) saturate(500%) hue-rotate(360deg);" width="42"/></a>
+  &nbsp;
+  <a href="mailto:pmishra0347@gmail.com"><img height="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="42"/></a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/piyush_mishra"><img height="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" width="42"/></a>
+  &nbsp;
+  <a href="https://github.com/ichikawa013"><img height="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="42"/></a>
+</p>
+
+<!--
+  🎬 Drop your favorite anime GIF here — grab the link from Giphy or Tenor
+  and paste it as the src below. Can't embed one for you since it's
+  someone else's copyrighted footage, but this is exactly where it goes:
+
+  <p align="center"><img src="YOUR_GIF_LINK_HERE" width="400"/></p>
+-->
+
+<br>
+
+```yaml
+about_me:
+  name: Piyush Mishra
+  role: Backend Engineer, Distributed Systems
+  education: B.Tech CS @ AKTU, class of '27
+  currently_building: DevPulse — real-time developer activity platform
+  currently_learning: Spring AI, event-driven architecture at scale
+  proud_of: SIH 2025 National Finalist
+  looking_for: backend / distributed systems internships
+  fun_fact: shipped two production systems solo, schema to k8s
 ```
-██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║
-██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-██║     ██║   ██║   ╚██████╔╝███████║██║  ██║
-╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-### I build backend systems that don't fall over under load.
-**Distributed Systems · Real-Time Infra · B.Tech CS, AKTU '27**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-mishra013)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmishra0347@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-961-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/piyush_mishra)
-
-</div>
 
 <br>
 
-## About
+## 🌀 Projects
 
-I design and ship backend systems end-to-end — schema to Kubernetes — with a focus on distributed architecture, real-time data pipelines, and the infrastructure layer that keeps services reliable when things get loud.
+**[DevPulse](https://github.com/ichikawa013)** `🚧 in progress`
+Internal GitHub activity feed meets team standup board — live dashboards, contribution heatmaps, real-time alerts.
+`Spring Boot` `GraphQL` `Kafka` `WebSocket/STOMP` `Kubernetes`
 
-- 🏆 **SIH 2025 National Finalist**
-- 🚀 Two production-grade systems shipped solo, start to finish
-- 🔭 Currently building **DevPulse**
-- 🎯 Open to backend / distributed systems internships
+**[Distributed Payment Service](https://github.com/ichikawa013/payment-service)**
+Payment orchestration backend — idempotency keys, JWT auth, Redis rate limiting. **36.6 req/sec · 50 concurrent · 0% errors.**
+`Java` `Spring Boot` `MongoDB` `Redis` `Docker`
 
-<br>
-
-## Projects
-
-### [DevPulse](https://github.com/ichikawa013) — Real-Time Developer Activity Platform `🚧 In Progress`
-Internal GitHub activity feed meets team standup board. Developers post updates and react in real time; team leads get live dashboards with contribution heatmaps and alert streams.
-
-`Spring Boot` `GraphQL` `Kafka` `WebSocket/STOMP` `PostgreSQL` `Redis` `MinIO` `Kubernetes` `Spring AI`
-
-### [Distributed Payment Service](https://github.com/ichikawa013/payment-service)
-RESTful payment orchestration backend handling deposits, withdrawals, and P2P routing — with idempotency keys, JWT auth, and Redis-backed rate limiting.
-
-📊 Load tested at **36.6 req/sec** · **50 concurrent sessions** · **0% error rate**
-
-`Java` `Spring Boot` `MongoDB` `Redis` `Bucket4j` `Docker` `AWS EC2`
-
-### [Healthcare Interoperability API](https://github.com/ichikawa013/med)
-Cross-system patient data exchange built on **FHIR R4**. Sole backend engineer on REST contracts, PostgreSQL schema, and deployment pipeline.
-
-`Node.js` `Express.js` `PostgreSQL` `FHIR R4`
+**[Healthcare Interoperability API](https://github.com/ichikawa013/med)**
+Cross-system patient data exchange on FHIR R4, built solo end-to-end.
+`Node.js` `Express` `PostgreSQL` `FHIR R4`
 
 <br>
 
-## Stack
+## 🧰 Tools I Use
 
-| Layer | Tools |
-|---|---|
-| **Languages** | Java · JavaScript · C++ · Python |
-| **Backend** | Spring Boot · Spring Security · Node.js · Express.js |
-| **Messaging & Real-Time** | Apache Kafka · WebSocket/STOMP · Server-Sent Events |
-| **Databases** | PostgreSQL · MongoDB · Redis |
-| **DevOps** | Docker · Kubernetes · GitHub Actions · AWS EC2 · Linux |
-| **Observability** | Prometheus · Grafana · Micrometer · Resilience4j |
-| **Testing** | JUnit 5 · Mockito · Apache JMeter |
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="42" height="42" style="background:white;border-radius:6px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="42" height="42"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="42" height="42"/>
+</p>
+
+<sub>also in the toolbox: Bucket4j · Resilience4j · JMeter · JUnit 5 · Mockito</sub>
 
 <br>
 
-## Stats
+## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichikawa013&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichikawa013&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%">
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ichikawa013&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFD700&icon_color=8B0000&text_color=E8C4C4" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ichikawa013&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFD700&text_color=E8C4C4" width="38%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=ichikawa013&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="100%">
-</div>
+<p align="center">
+  <img src="https://github.com/ichikawa013/ichikawa013/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
 
-<br>
-
-<div align="center">
-
-<sub>Currently building **DevPulse** · Open to backend / distributed systems internships · <a href="mailto:pmishra0347@gmail.com">pmishra0347@gmail.com</a></sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:8B0000,100:0A0A0A&height=100&section=footer"/>
+</p>
