@@ -9,37 +9,48 @@
 ╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Backend Engineer · Distributed Systems · B.Tech CS @ AKTU `'27`
+### I build backend systems that don't fall over under load.
+**Distributed Systems · Real-Time Infra · B.Tech CS, AKTU '27**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-mishra013)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pmishra0347@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-961-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/piyush_mishra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-mishra013)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmishra0347@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-961-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/piyush_mishra)
 
 </div>
 
----
+<br>
 
-I build backend systems that are designed to hold up under load — not just run locally. My focus is on distributed architecture, real-time data pipelines, and the infrastructure layer that makes services actually reliable.
+## About
 
-Two production-grade systems shipped independently, end-to-end: from schema design to Kubernetes. **SIH 2025 National Finalist.**
+I design and ship backend systems end-to-end — schema to Kubernetes — with a focus on distributed architecture, real-time data pipelines, and the infrastructure layer that keeps services reliable when things get loud.
 
----
+- 🏆 **SIH 2025 National Finalist**
+- 🚀 Two production-grade systems shipped solo, start to finish
+- 🔭 Currently building **DevPulse**
+- 🎯 Open to backend / distributed systems internships
+
+<br>
 
 ## Projects
 
-**[DevPulse](https://github.com/ichikawa013)** — Real-Time Developer Activity Platform `In Progress`
-> Internal GitHub activity feed meets team standup board. Developers post updates, attach media, react in real time. Team leads get live dashboards with contribution heatmaps and alert streams.
-> `Spring Boot` `GraphQL` `Kafka` `WebSocket/STOMP` `PostgreSQL` `Redis` `MinIO` `Kubernetes` `Spring AI`
+### [DevPulse](https://github.com/ichikawa013) — Real-Time Developer Activity Platform `🚧 In Progress`
+Internal GitHub activity feed meets team standup board. Developers post updates and react in real time; team leads get live dashboards with contribution heatmaps and alert streams.
 
-**[Distributed Payment Service](https://github.com/ichikawa013/payment-service)**
-> RESTful payment orchestration backend — deposits, withdrawals, P2P routing — with idempotency keys, JWT auth, and Redis-backed rate limiting. Load tested at 36.6 req/sec / 50 concurrent sessions / 0% error rate.
-> `Java` `Spring Boot` `MongoDB` `Redis` `Bucket4j` `Docker` `AWS EC2`
+`Spring Boot` `GraphQL` `Kafka` `WebSocket/STOMP` `PostgreSQL` `Redis` `MinIO` `Kubernetes` `Spring AI`
 
-**[Healthcare Interoperability API](https://github.com/ichikawa013/med)**
-> Cross-system patient data exchange implementing FHIR R4. Sole backend engineer — REST contracts, PostgreSQL schema, and deployment pipeline, end-to-end.
-> `Node.js` `Express.js` `PostgreSQL` `FHIR R4`
+### [Distributed Payment Service](https://github.com/ichikawa013/payment-service)
+RESTful payment orchestration backend handling deposits, withdrawals, and P2P routing — with idempotency keys, JWT auth, and Redis-backed rate limiting.
 
----
+📊 Load tested at **36.6 req/sec** · **50 concurrent sessions** · **0% error rate**
+
+`Java` `Spring Boot` `MongoDB` `Redis` `Bucket4j` `Docker` `AWS EC2`
+
+### [Healthcare Interoperability API](https://github.com/ichikawa013/med)
+Cross-system patient data exchange built on **FHIR R4**. Sole backend engineer on REST contracts, PostgreSQL schema, and deployment pipeline.
+
+`Node.js` `Express.js` `PostgreSQL` `FHIR R4`
+
+<br>
 
 ## Stack
 
@@ -53,7 +64,7 @@ Two production-grade systems shipped independently, end-to-end: from schema desi
 | **Observability** | Prometheus · Grafana · Micrometer · Resilience4j |
 | **Testing** | JUnit 5 · Mockito · Apache JMeter |
 
----
+<br>
 
 ## Stats
 
@@ -62,8 +73,14 @@ Two production-grade systems shipped independently, end-to-end: from schema desi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichikawa013&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%">
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-trophy.vercel.app/?username=ichikawa013&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="100%">
+</div>
+
+<br>
 
 <div align="center">
-<sub>Currently building DevPulse · Open to backend / distributed systems internships · <a href="mailto:pmishra0347@gmail.com">pmishra0347@gmail.com</a></sub>
+
+<sub>Currently building **DevPulse** · Open to backend / distributed systems internships · <a href="mailto:pmishra0347@gmail.com">pmishra0347@gmail.com</a></sub>
+
 </div>
